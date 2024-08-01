@@ -1,5 +1,3 @@
-# Level3Task08
-
 Poised - updated to use databases
 
 Created using Java - this program allows the user to create and write building project's details along with the contractor's details for the project to a database.
